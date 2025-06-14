@@ -32,5 +32,3 @@ app.listen(PORT,()=>{
 )
 
 
-
-//mongodb+srv://iamyanshu20:Ko8xF0D9xHoIKRPc@cluster0.4waf8.mongodb.net/
